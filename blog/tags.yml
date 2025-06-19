@@ -1,19 +1,59 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+csharp:
+  label: C#
+  permalink: /tags/csharp
+  description: Artículos y recursos sobre desarrollo en C# y .NET.
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+dotnet:
+  label: .NET
+  permalink: /tags/dotnet
+  description: Publicaciones relacionadas con el ecosistema .NET.
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+azure:
+  label: Azure
+  permalink: /tags/azure
+  description: Desarrollo y despliegue en la nube con Microsoft Azure.
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+python:
+  label: Python
+  permalink: /tags/python
+  description: Tutoriales y ejemplos de programación en Python.
+
+web-development:
+  label: Desarrollo Web
+  permalink: /tags/web-development
+  description: Tecnologías y buenas prácticas en desarrollo web.
+
+blazor:
+  label: Blazor
+  permalink: /tags/blazor
+  description: Desarrollo de aplicaciones web interactivas con Blazor.
+
+rest-api:
+  label: REST API
+  permalink: /tags/rest-api
+  description: Diseño y desarrollo de APIs RESTful.
+
+visual-studio:
+  label: Visual Studio
+  permalink: /tags/visual-studio
+  description: Consejos y trucos para Visual Studio y Visual Studio Code.
+
+sql:
+  label: SQL
+  permalink: /tags/sql
+  description: Base de datos, consultas SQL y optimización.
+
+javascript:
+  label: JavaScript
+  permalink: /tags/javascript
+  description: Programación y frameworks de JavaScript.
+
+docker:
+  label: Docker
+  permalink: /tags/docker
+  description: Contenedores y despliegue con Docker.
+
+angular:
+  label: Angular
+  permalink: /tags/angular
+  description: Desarrollo de aplicaciones web con Angular.
