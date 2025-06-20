@@ -1,59 +1,59 @@
 csharp:
   label: C#
-  permalink: /tags/csharp
+  permalink: /csharp
   description: Artículos y recursos sobre desarrollo en C# y .NET.
 
 dotnet:
   label: .NET
-  permalink: /tags/dotnet
+  permalink: /dotnet
   description: Publicaciones relacionadas con el ecosistema .NET.
 
 azure:
   label: Azure
-  permalink: /tags/azure
+  permalink: /azure
   description: Desarrollo y despliegue en la nube con Microsoft Azure.
 
 python:
   label: Python
-  permalink: /tags/python
+  permalink: /python
   description: Tutoriales y ejemplos de programación en Python.
 
 web-development:
   label: Desarrollo Web
-  permalink: /tags/web-development
+  permalink: /web-development
   description: Tecnologías y buenas prácticas en desarrollo web.
 
 blazor:
   label: Blazor
-  permalink: /tags/blazor
+  permalink: /blazor
   description: Desarrollo de aplicaciones web interactivas con Blazor.
 
 rest-api:
   label: REST API
-  permalink: /tags/rest-api
+  permalink: /rest-api
   description: Diseño y desarrollo de APIs RESTful.
 
 visual-studio:
   label: Visual Studio
-  permalink: /tags/visual-studio
+  permalink: /visual-studio
   description: Consejos y trucos para Visual Studio y Visual Studio Code.
 
 sql:
   label: SQL
-  permalink: /tags/sql
+  permalink: /sql
   description: Base de datos, consultas SQL y optimización.
 
 javascript:
   label: JavaScript
-  permalink: /tags/javascript
+  permalink: /javascript
   description: Programación y frameworks de JavaScript.
 
 docker:
   label: Docker
-  permalink: /tags/docker
+  permalink: /docker
   description: Contenedores y despliegue con Docker.
 
 angular:
   label: Angular
-  permalink: /tags/angular
+  permalink: /angular
   description: Desarrollo de aplicaciones web con Angular.
