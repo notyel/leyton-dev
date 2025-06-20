@@ -21,3 +21,15 @@
   align-items: center;
   justify-content: center;
 }
+
+.button-pop {
+  border: 2px solid var(--ifm-color-primary-dark);
+  color: var(--ifm-color-primary-dark);
+  background-color: transparent;
+  transition: all 0.2s ease-in-out;
+}
+
+.button-pop:hover {
+  background-color: var(--ifm-color-primary-dark);
+  color: var(--ifm-background-color);
+}
